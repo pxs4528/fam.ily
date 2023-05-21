@@ -19,7 +19,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/pxs4528/fam.ily/main/ScreenShot.jpg)
+![screenshot](https://github.com/pxs4528/fam.ily/blob/main/ScreenShot.jpg)
 
 ## Key Features
 
