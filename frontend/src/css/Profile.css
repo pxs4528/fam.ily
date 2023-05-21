@@ -1,0 +1,20 @@
+.button {
+  background-color: #f2d8a7;
+  border: none;
+  color: #000000;
+  padding: 15px 80px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+  justify-content: center;
+}
+
+.button:hover {
+  background-color: #efbb72;
+}
+
+.profile-header {
+  background-image: url("https://images3.alphacoders.com/107/1072545.jpg");
+  background-size: cover;
+  background-position: left;
+}

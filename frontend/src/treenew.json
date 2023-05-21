@@ -1,0 +1,30 @@
+[
+    {
+        "id": "nhi123",
+        "gender": "male",
+        "img": "https://upload-picture-testing.s3.us-east-2.amazonaws.com/cd4ce9c21b80cfdcdff9d798d80666a1",
+        "parents": [],
+        "children": [
+            {
+                "id": "mike123",
+                "type": "blood"
+            }
+        ],
+        "spouses": [],
+        "siblings": []
+    },
+    {
+        "id": "mike123",
+        "gender": "male",
+        "img": "https://wallpapers.com/images/featured/87h46gcobjl5e4xu.jpg",
+        "parents": [
+            {
+                "id": "nhi123",
+                "type": "blood"
+            }
+        ],
+        "children": [],
+        "spouses": [],
+        "siblings": []
+    }
+]

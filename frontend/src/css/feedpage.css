@@ -1,0 +1,57 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+
+.content {
+  width: auto;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+}
+
+.feed {
+  width: 50%;
+  background-color: rgb(249, 250, 251);
+  padding: 0 0.5rem;
+  overflow-y: auto;
+}
+
+.add-post-button {
+  background-color: #61fbb380;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button1 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(158, 188, 158);
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  cursor: pointer;
+  width: 38%;
+  font-weight: 500;
+  position: fixed;
+  bottom: 20px;
+}
+
+.circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #fff;
+  color: #000000;
+  font-size: 30px;
+  margin-right: 20px;
+  line-height: 20px;
+}
